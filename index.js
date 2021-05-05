@@ -279,7 +279,7 @@ async function starts() {
 			pushname = client.contacts[nameReq] != undefined ? client.contacts[nameReq].vname || client.contacts[nameReq].notify : undefined
 
 			mess = {
-					wait: 'Pera ae parsa, Xandão ta Trabalhando porra',
+					wait: 'Porfavor espera,un momento',
 					success: 'Pronto',
 					levelon: '*leveling* *ativado*',
 					leveloff: '*leveling* *desativado*',
